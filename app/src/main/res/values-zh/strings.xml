@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">四轴控制器</string>
+    <string name="oui">是</string>
+    <string name="non">否</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="bluetooth_hint">蓝牙未开启，是否现在开启？</string>
+    <string name="bluetooth_enable_failed">开启蓝牙失败</string>
+    <string name="searching_bluetooth">正在搜索蓝牙设备&#8230;</string>
+    <string name="paired_devices">已配对设备</string>
+    <string name="untitled">（未命名）</string>
+    <string name="develop">开发模式</string>
+    <string name="start">开始!</string>
+    <string name="send">发送</string>
+    <string name="failed_to_connect">连接失败</string>
+    <string name="connection_lost">连接已断开</string>
+    <string name="connected_to">已连接</string>
+    <string name="connecting">连接中</string>
+    <string name="sending">发送中&#8230;</string>
+    <string name="send_failed">发送失败</string>
+    <string name="throttle">油门</string>
+    <string name="off">关</string>
+    <string name="on">开</string>
+    <string name="reset">复位</string>
+    <string name="failed_to_set_mode">设置模式失败</string>
+
+    <string-array name="modes">
+        <item>姿态模式</item>
+        <item>手动模式</item>
+    </string-array>
+
+    <string-array name="pid_selector">
+        <item>内环x</item>
+        <item>内环y</item>
+        <item>内环z</item>
+        <item>外环x</item>
+        <item>外环y</item>
+        <item>外环z</item>
+    </string-array>
+</resources>

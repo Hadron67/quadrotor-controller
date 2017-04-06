@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Aircraft</string>
+    <string name="test">testtesttesttesttesst</string>
+    <string name="oui">yes</string>
+    <string name="non">no</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_hint">BlueTooth not enabled,enable it now?</string>
+    <string name="bluetooth_enable_failed">Failed to enable bluetooth.</string>
+    <string name="searching_bluetooth">Discovering devices&#8230;</string>
+    <string name="paired_devices">Paired devices</string>
+    <string name="untitled">(untitled)</string>
+    <string name="develop">develop mode</string>
+    <string name="start">start!</string>
+    <string name="pid_p">P</string>
+    <string name="pid_i">I</string>
+    <string name="pid_d">D</string>
+    <string name="pid_p_changed">*P</string>
+    <string name="pid_i_changed">*I</string>
+    <string name="pid_d_changed">*D</string>
+    <string name="send">send</string>
+    <string name="failed_to_connect">failed to connect</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="connected_to">connected to</string>
+    <string name="connecting">connecting</string>
+    <string name="sending">sending&#8230;</string>
+    <string name="send_failed">failed to send</string>
+    <string name="throttle">throttle</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="gx">Gx</string>
+    <string name="gy">Gy</string>
+    <string name="gz">Gz</string>
+    <string name="reset">reset</string>
+    <string name="failed_to_set_mode">failed to set mode</string>
+
+    <string-array name="modes">
+        <item>gesture mode</item>
+        <item>manual mode</item>
+    </string-array>
+
+    <string-array name="pid_selector">
+        <item>inner x</item>
+        <item>inner y</item>
+        <item>inner z</item>
+        <item>outer x</item>
+        <item>outer y</item>
+        <item>outer z</item>
+    </string-array>
+
+</resources>
